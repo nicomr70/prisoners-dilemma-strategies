@@ -1,6 +1,5 @@
 package fr.uga.miage.m1.strategies;
 
-import fr.uga.maige.m1.strategies.PendulumStrategy;
 import fr.uga.miage.m1.sharedstrategy.StrategyChoice;
 import fr.uga.miage.m1.sharedstrategy.StrategyExecutionData;
 import org.junit.jupiter.api.Assertions;

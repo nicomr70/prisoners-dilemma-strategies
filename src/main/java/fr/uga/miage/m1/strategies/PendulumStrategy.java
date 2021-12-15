@@ -1,4 +1,4 @@
-package fr.uga.maige.m1.strategies;
+package fr.uga.miage.m1.strategies;
 
 import fr.uga.miage.m1.sharedstrategy.IStrategy;
 import fr.uga.miage.m1.sharedstrategy.StrategyChoice;
